@@ -1,5 +1,4 @@
-<h1 align="center">💥 LoveTool 💦</h1>  Nguyễn Anh Tú </3
-Coder VDH ?
+<h1 align="center">💥 LoveTool 💦</h1> Nguyễn Anh Tú </3
 <em><h5 align="center">(Language: Python, Shell)</h5></em>
 
 
