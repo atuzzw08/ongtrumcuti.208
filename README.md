@@ -30,7 +30,4 @@ Coder VDH ?
 * Momo: 0564682944 <br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://https://github.com/atuzzw08/ongtrumcuti.208hit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
-
+[![Hits] ebee atuu cutii nhắm Đoáaaaa 🧸💕
