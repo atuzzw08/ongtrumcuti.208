@@ -1,4 +1,4 @@
-<h1 align="center">💥 LoveTool 💦</h1> Tác Giả Vi Đức Hùng x Nguyễn Anh Tú </3
+<h1 align="center">💥 LoveTool 💦</h1>  Nguyễn Anh Tú </3 ( Coder By VDH )
 <em><h5 align="center">(Language: Python, Shell)</h5></em>
 
 
